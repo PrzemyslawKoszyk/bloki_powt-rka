@@ -9,6 +9,12 @@ background-color: blue;
 color: aliceblue;
 }
 
+nav{
+    background-color: gray;
+    padding: 15px;
+    color: aliceblue;
+}
+
 footer{
     background-color: red;
     color: aliceblue;
