@@ -1,0 +1,21 @@
+#blok {
+display: flex;
+gap: 30px;
+}
+main {
+    color: black;
+    flex: 7;
+       border: 2px solid blue;
+       min-height: 500px;
+       background-color: white;
+       padding: 20px;
+
+}
+aside {
+    color: black;
+    flex: 3;
+    min-height: 500px;
+    border: 2px solid purple;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
